@@ -1,0 +1,18 @@
+name: tf2-gpu
+channels:
+  - defaults
+dependencies:
+  - tensorflow-gpu
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - seaborn
+  - pandas
+  - jupyter_contrib_nbextensions
+  - autopep8
+  - holoviews
+  - datashader
+  - bokeh
+  - scikit-optimize
+prefix: /home/johannes/anaconda3/envs/tf2-gpu
+

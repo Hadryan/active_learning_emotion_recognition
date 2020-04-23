@@ -1,0 +1,6 @@
+AVEC2016/*
+.ipynb_checkpoints/*
+active_gru/__pycache__/*
+custom_keras/__pycache__/*
+logs/*
+initial_weights.h5
