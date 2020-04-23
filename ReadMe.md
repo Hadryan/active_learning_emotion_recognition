@@ -1,4 +1,5 @@
 # Active Learning on RECOLA
+Implementation of active learning based on the bayesian MC Dropout method by Gal et. al. Recola is an affective computing data set.
 ## important Notebooks/ scripts
 - pipeline.ipynb: Preprocessing of data set for keras
 - hyper_tuning_t0.py: Search Hyper parameters on X_labelled
